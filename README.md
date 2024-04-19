@@ -1,4 +1,4 @@
 Hello, my name is Aima!
 - 🔭 I’m currently working on a Hackathon Project
-- 🌱 I’m currently learning Data Structures
+- 🌱 I am a sophomore CS student seeking an internship!
 - ⚡ Fun fact: I enjoy solving puzzles ;)
